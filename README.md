@@ -29,5 +29,5 @@ The project demonstrates a complete **end-to-end machine learning pipeline**, fr
 
 ---
 
-## 📂 Project Structure
+
 
